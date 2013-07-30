@@ -1,0 +1,103 @@
+[17-Apr-2012 19:37:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/engineer/public_html/apps/fb/tasks/access.php:10) in /home/engineer/public_html/apps/fb/tasks/config/facebook.php on line 37
+[18-Apr-2012 09:30:20] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[19-Apr-2012 09:30:20] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[20-Apr-2012 09:30:19] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[21-Apr-2012 09:30:44] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: You cannot access the app till you log in to www.facebook.com and follow the instructions given.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[22-Apr-2012 09:30:33] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[23-Apr-2012 09:30:29] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[24-Apr-2012 09:30:10] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: Session has expired at unix time 1335186000. The current unix time is 1335240014.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[25-Apr-2012 09:30:16] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1335186000. The current unix time is 1335326417.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[26-Apr-2012 09:30:53] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1335186000. The current unix time is 1335412857.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[27-Apr-2012 05:51:17] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1335186000. The current unix time is 1335486079.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[28-Apr-2012 09:30:33] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: User 100001799241834 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[30-Apr-2012 09:30:14] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[01-May-2012 09:30:36] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[02-May-2012 09:30:37] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[03-May-2012 09:30:30] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[04-May-2012 09:30:36] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[05-May-2012 09:30:38] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[06-May-2012 09:30:10] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[07-May-2012 09:30:22] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[08-May-2012 09:30:26] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[09-May-2012 09:31:56] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[10-May-2012 09:30:12] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[10-May-2012 22:22:21] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[11-May-2012 09:30:47] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1336676400. The current unix time is 1336708851.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[12-May-2012 09:30:37] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1336676400. The current unix time is 1336795240.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[13-May-2012 09:30:30] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1336676400. The current unix time is 1336881633.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[14-May-2012 09:30:28] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1336676400. The current unix time is 1336968031.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[15-May-2012 09:30:23] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1336676400. The current unix time is 1337054427.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[16-May-2012 00:19:32] PHP Fatal error:  Uncaught Exception: 190: Error invalidating access token: Session has expired at unix time 1336676400. The current unix time is 1337107773.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[16-May-2012 09:30:29] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: Session has expired at unix time 1336676400. The current unix time is 1337140832.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[17-May-2012 09:30:17] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: Session has expired at unix time 1336676400. The current unix time is 1337227220.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[18-May-2012 00:01:23] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[18-May-2012 09:30:30] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[19-May-2012 09:30:16] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[20-May-2012 09:30:35] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[21-May-2012 09:30:41] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[22-May-2012 09:30:17] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[23-May-2012 09:30:21] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[24-May-2012 09:30:26] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: The session has been invalidated because the user has changed the password.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[25-May-2012 09:30:03] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[26-May-2012 09:30:03] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[27-May-2012 09:30:03] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[28-May-2012 09:30:02] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[29-May-2012 00:09:51] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[29-May-2012 09:30:40] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[29-May-2012 20:24:06] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[29-May-2012 20:25:39] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[30-May-2012 09:30:04] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[31-May-2012 09:05:57] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[31-May-2012 09:30:02] PHP Fatal error:  Uncaught Exception: 190: Error validating access token: User 731842726 has not authorized application 270221889676734.
+  thrown in /home/engineer/public_html/apps/fb/tasks/base_facebook.php on line 708
+[03-Jul-2012 23:08:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'greenpor'@'localhost' (using password: YES) in /home/engineer/public_html/apps/fb/tasks/config.php on line 20
+[03-Jul-2012 23:08:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'greenpor'@'localhost' (using password: YES) in /home/engineer/public_html/apps/fb/tasks/config.php on line 20
